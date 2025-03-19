@@ -29,7 +29,7 @@ Face recognition is disabled by default, face recognition must be enabled in the
 
 ```yaml
 face_recognition:
-  enabled: true
+  enabled: True
 ```
 
 ## Advanced Configuration
